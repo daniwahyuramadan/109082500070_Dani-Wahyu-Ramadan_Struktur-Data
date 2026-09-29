@@ -94,7 +94,8 @@ int main() {
 
 ### Output Unguided 2 :
 
-![Output Unguided 2](Struktur%20Data%20no2.png)
+<img width="1917" height="1078" alt="no2" src="https://github.com/user-attachments/assets/a7eda64c-7ae7-48e6-9d6a-6f9eeb1640e6" />
+
 
 penjelasan unguided 2 :
 
@@ -142,7 +143,8 @@ int main() {
 
 ### Output Unguided 3 :
 
-![Output Unguided 3](Struktur%20Data%20no3.png)
+<img width="1917" height="1078" alt="no3" src="https://github.com/user-attachments/assets/0d15fd46-1d9b-4e18-afe9-b30adce72e08" />
+
 
 penjelasan unguided 3 :
 
