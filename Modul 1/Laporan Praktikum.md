@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 1 - Struktur Data</h1>
-<p align="center">Dani Wahyu Ramadan - 109082500070</p>
+<p align="center"> Dani Wahyu Ramadan - 109082500070</p>
 
 ## Dasar Teori
 
@@ -45,7 +45,8 @@ int main() {
 
 ### Output Unguided 1 :
 
-![Output Unguided 1](Struktur%20Data%20no1.png)
+<img width="1917" height="1078" alt="no1" src="https://github.com/user-attachments/assets/6c0da56a-c1aa-48a5-8b9d-701e34d3a8b6" />
+
 
 
 penjelasan unguided 1 :
