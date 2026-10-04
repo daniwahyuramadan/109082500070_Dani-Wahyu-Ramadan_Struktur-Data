@@ -375,7 +375,8 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="Soalno 1" src="https://github.com/user-attachments/assets/6c958011-a051-4d18-97d9-b34dc6a39158" />
+<img width="1917" height="1078" alt="Screenshot Nomor 1" src="https://github.com/user-attachments/assets/dfe37053-da47-46d6-971e-88fc3dce3d32" />
+
 
 
 
@@ -447,11 +448,13 @@ void tukar(int &x, int &y, int &z) {
 ### Output Unguided 2 :
 
 
-<img width="1920" height="1080" alt="Soalno 2 Pointer" src="https://github.com/user-attachments/assets/d01c64f5-df94-4b81-accf-c05e9b6991f6" />
+<img width="1917" height="1078" alt="Screenshot Nomor 2 Pointer" src="https://github.com/user-attachments/assets/1453c036-d201-471f-9ba3-b498eae3c241" />
 
 
 
-<img width="1920" height="1080" alt="Soalno2 Reference" src="https://github.com/user-attachments/assets/7cd5618f-dc57-4802-8242-4e01507d93fc" />
+
+<img width="1917" height="1078" alt="Screenshot Nomor 2 Refrence" src="https://github.com/user-attachments/assets/6e0e0821-99ca-4c39-ae8c-905bb294e052" />
+
 
 
 
@@ -548,7 +551,8 @@ int main() {
 ### Output Unguided 3 :
 
 
-<img width="1920" height="1080" alt="Soalno 3" src="https://github.com/user-attachments/assets/cb598750-c028-4231-a698-3942a712e335" />
+<img width="1917" height="1078" alt="Screenshot Nomor 3" src="https://github.com/user-attachments/assets/6522678f-adf8-438f-bbaf-341cda1757cf" />
+
 
 
 
