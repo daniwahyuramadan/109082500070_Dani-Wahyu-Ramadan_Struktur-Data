@@ -511,7 +511,8 @@ int main() {
 ### Output Unguided 1 :
 
 
-<img width="1920" height="1080" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/51531999-0169-4115-9504-26adfbf3ee7d" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-20 211052" src="https://github.com/user-attachments/assets/c8412fda-fe1f-47ce-b676-cb8ae56a966f" />
+
 
 
 
@@ -573,7 +574,8 @@ int main() {
 
 
 
-<img width="1920" height="1080" alt="Screenshot (554)" src="https://github.com/user-attachments/assets/353be8cb-d148-490b-b717-4f5f718edefd" />
+![Uploading Screenshot 2026-10-20 211052.png…]()
+
 
 
 
