@@ -447,7 +447,8 @@ int main() {
 ### Output Unguided 1 :
 
 
-<img width="1920" height="1080" alt="Nomer 1" src="https://github.com/user-attachments/assets/d6f856b8-c3a1-4be2-83ab-56d718c5348a" />
+<img width="1920" height="1080" alt="Screenshot (556)" src="https://github.com/user-attachments/assets/eb7ceb00-8516-4e27-aa85-2d6c3e63d0ab" />
+
 
 
 
