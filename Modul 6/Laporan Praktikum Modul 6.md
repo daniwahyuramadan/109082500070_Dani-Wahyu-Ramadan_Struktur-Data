@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 5 - Struktur Data</h1>
+# <h1 align="center">Laporan Praktikum Modul 6 - Struktur Data</h1>
 <p align="center">Dani Wahyu Ramadan - 109082500070</p>
 
 ## Dasar Teori
