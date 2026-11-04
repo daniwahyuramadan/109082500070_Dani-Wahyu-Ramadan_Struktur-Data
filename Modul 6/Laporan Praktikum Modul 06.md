@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul 6 - Struktur Data</h1>
-<p align="center">Filanda Yusran Triahnaf - 109082500144</p>
+<p align="center"> Dani Wahyu Ramadan - 109082500070</p>
 
 ## Dasar Teori
 ### A. Doubly Linked List 
@@ -446,7 +446,8 @@ int main() {
 ### Output Unguided 1 :
 
 
-<img width="1920" height="1080" alt="no1" src="https://github.com/user-attachments/assets/75a30f06-ade3-4217-b69f-3fee76163b3b" />
+<img width="1920" height="1080" alt="Screenshot No 01" src="https://github.com/user-attachments/assets/0d09fa54-4371-4873-abbf-a376dfeb595b" />
+
 
 
 
@@ -602,13 +603,14 @@ int main() {
 
 ### Output Unguided 2 :
 
-<img width="1920" height="1080" alt="no2" src="https://github.com/user-attachments/assets/f43b7798-9037-426e-9366-ebf5f74bc2c1" />
+<img width="1920" height="1080" alt="Screenshot No 02" src="https://github.com/user-attachments/assets/d4ec2be0-b231-4b38-8d15-3771fbdb19db" />
+
 
 
 
 penjelasan unguided 2 :
 
-Program menambahkan fitur pencarian data (findElm) berbasis objek infotype untuk mencari keberadaan nomor polisi tertentu dan menampilkan informasi detail atribut kendaraan apabila ditemukan.
+Program menambahkan fitur pencarian data findElm berbasis infotype untuk mencari keberadaan pada nomor polisi tersebut dan menampilkan informasi detail atribut kendaraan apabila ditemukan.
 
 
 
@@ -814,14 +816,16 @@ int main() {
 
 ### Output Unguided 3 :
 
-<img width="1920" height="1080" alt="no3" src="https://github.com/user-attachments/assets/5e00ba7c-19d3-4b7a-8ec8-68f6b578b26e" />
+
+<img width="1920" height="1080" alt="Screenshot No 03" src="https://github.com/user-attachments/assets/05cd6410-84c3-475f-b001-47296f52e388" />
+
 
 
 
 
 penjelasan unguided 3 :
 
-Program mengintegrasikan fungsi pencarian dengan prosedur penghapusan (deleteFirst, deleteLast, atau deleteAfter) secara kondisional tergantung letak node target, lalu membersihkan memori dengan dealokasi dan menampilkan sisa data.
+Program mengintegrasikan fungsi pencarian dengan prosedur penghapusan (deleteFirst, deleteLast, atau deleteAfter) secara kondisional tergantung letak node target, setelah itu membersihkan memori dengan dealokasi dan menampilkan sisa data.
   
 
 
