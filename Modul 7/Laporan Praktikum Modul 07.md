@@ -250,7 +250,8 @@ return 0;
 
 Output Unguided 1 :
 
-(Silakan tempelkan screenshot hasil running program Unguided 1 di sini)
+<img width="1917" height="1078" alt="Screenshot Nomor 1" src="https://github.com/user-attachments/assets/10131257-c598-4e9e-879a-e1c737a565a5" />
+
 
 penjelasan unguided 1 :
 
@@ -382,7 +383,8 @@ return 0;
 
 Output Unguided 2 :
 
-(Silakan tempelkan screenshot hasil running program Unguided 2 di sini)
+<img width="1917" height="1078" alt="Screenshot Nomor 2" src="https://github.com/user-attachments/assets/c83065db-6a15-4dac-b329-1713ff0335bd" />
+
 
 penjelasan unguided 2 :
 
@@ -519,11 +521,12 @@ return 0;
 
 Output Unguided 3 :
 
-(Silakan tempelkan screenshot hasil running program Unguided 3 di sini)
+<img width="1917" height="1078" alt="Screenshot 2026-11-15 213725" src="https://github.com/user-attachments/assets/cfaef889-2179-4bc8-8886-254961ecdaaa" />
+
 
 penjelasan unguided 3 :
 
-Prosedur getInputStream pakai cin.get(ch) buat baca ketikan angka dari user satu per satu sampai user pencet tombol Enter ('\n'). Setiap angka yang diketik langsung diubah dari karakter ke integer (ch - '0') terus dimasukin ke stack pakai push. Karena sifat stack itu LIFO, angka yang terakhir diketik bakal muncul paling depan di TOP, dan pas di-balikStack urutannya balik lagi seperti input awal.
+Prosedur getInputStream pakai cin.get(ch) buat baca ketikan angka dari user satu per satu sampai user pencet tombol Enter (\n). Setiap angka yang diketik langsung diubah dari karakter ke integer (ch - '0') terus dimasukin ke stack pakai push. Karena sifat stack itu LIFO, angka yang terakhir diketik bakal muncul paling depan di TOP, dan pas di-balikStack urutannya balik lagi seperti input awal.
 
 ## Kesimpulan
 
